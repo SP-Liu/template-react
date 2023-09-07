@@ -1,5 +1,9 @@
 {
   "compilerOptions": {
+    "types": [
+      "@types/jest",
+      "@testing-library/jest-dom"
+    ],
     "jsx": "react-jsx",
     "sourceMap": true,
     "outDir": "dist",
