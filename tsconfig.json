@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "types": [
+      "node",
       "@types/jest",
       "@testing-library/jest-dom"
     ],
